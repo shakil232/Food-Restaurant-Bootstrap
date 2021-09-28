@@ -14,7 +14,11 @@
 .section-intro-about{
   color: dimgray;
 }
-
+.service-icon{
+  font-size: 60px;
+  color: dimgray;
+  padding: 8px;
+}.service-head
 *{
   padding: 0;
   margin: 0;
@@ -26,7 +30,9 @@ body,
 input {
   font-family: "Poppins", sans-serif;
 }
-
+input[placeholder], [placeholder], *[placeholder] {
+  color: rgb(15, 46, 182) !important;
+}
 /* Global */
 h1,
 h2,
