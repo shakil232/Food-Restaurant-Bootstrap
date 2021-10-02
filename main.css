@@ -59,6 +59,34 @@ input[placeholder], [placeholder], *[placeholder] {
  
 }
 
+/* Start Welcome Section */
+.section-top-bg{
+  background-image: url('images/background/leaf-3.jpeg');
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: 130px 130px;
+  margin-top: 90px;
+}
+.section-bottom-bg{
+  background-image: url('images/background/leaf-2.jpeg');
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  background-size: 130px 130px;
+  margin-top: 90px;
+}
+.section-left-bg{
+  background-image: url('images/background/leaf-2.jpeg');
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-size: 130px 130px;
+}
+.full-leaf-bg{
+  background-image: url('images/background/leaf-1.jpeg');
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 130px 130px;
+}
+
 /* Start Service Section */
 .service-icon{
   font-size: 60px;
@@ -73,6 +101,27 @@ input[placeholder], [placeholder], *[placeholder] {
 }
 .menu-list:hover{
   color:tomato;
+}
+.next-btn{
+  border: 1px solid dimgray;
+  outline: none;
+  border-radius: 0px  25px 25px 0px;
+  padding: 6px;
+  color: white;
+  background-color: rgb(47, 143, 9);
+  cursor: pointer;
+  width: 40px;
+}
+.pervious-btn{
+  border: 1px solid whitesmoke;
+  outline: none;
+  border-radius:  25px 0 0 25px ;
+  padding: 6px;
+  color: dimgrey;
+  background-color:whitesmoke;
+  font-weight: 600;
+  cursor: pointer;
+  width: 40px;
 }
 
 /* Start subscribe Section */
