@@ -7,7 +7,7 @@
 - html5 & css3 uses .
 
 ### _Web-Site Live Link_
-[click here](https://shakil232.github.io/Food-Restaurant-Bootstrap/)
+[click here](https://shakil232.github.io/Food-Restaurant-Bootstrap/index.html)
 
 ### _All Device Responsive image_
 
